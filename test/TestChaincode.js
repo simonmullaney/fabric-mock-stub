@@ -13,7 +13,7 @@
 'use strict';
 const shim = require('fabric-shim');
 
-export class TestChaincode {
+class TestChaincode {
 
     // The Init method is called when the Smart Contract 'fabcar' is instantiated by the blockchain network
     // Best practice is to have any Ledger initialization in separate function -- see initLedger()
@@ -276,3 +276,4 @@ export class TestChaincode {
         return response.payload;
     }
 }
+exports.TestChaincode = TestChaincode;
