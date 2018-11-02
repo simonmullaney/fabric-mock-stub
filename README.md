@@ -1,3 +1,7 @@
+#slightly changed to add ability to test vanilla javascript chaincode rather than typescript chaincode
+
+
+
 [![Build Status](https://travis-ci.org/wearetheledger/fabric-mock-stub.svg?branch=master)](https://travis-ci.org/wearetheledger/fabric-mock-stub) [![npm version](https://badge.fury.io/js/%40theledger%2Ffabric-mock-stub.svg)](https://badge.fury.io/js/%40theledger%2Ffabric-mock-stub) [![codecov](https://codecov.io/gh/wearetheledger/fabric-mock-stub/branch/master/graph/badge.svg)](https://codecov.io/gh/wearetheledger/fabric-mock-stub)
 # Hyperledger Fabric Nodejs mockstub
 
